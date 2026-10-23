@@ -1,0 +1,4 @@
+alas=8
+tinggi=4
+luas=1/2*(alas*tinggi)
+print("luas segitiga adalah : {}".format*(luas))
